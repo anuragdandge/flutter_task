@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238912172278",
+    "project_id": "instagram-clone-task",
+    "storage_bucket": "instagram-clone-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238912172278:android:712c0a4640e0397d29bcd7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9-FuGGIy3ECXhzm8pHgXu85fwIUQtfBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
